@@ -77,6 +77,10 @@ Keep in mind you need a minimum of 30 course credits and at least half (50 perce
 ### *Additional Opportunities*
 
 Additional opportunities give people real-world work experience in fields that align with interests, talents, and educational requirements. Co-op gives you the opportunity to learn new skills and strenght while learning in the field of your choosing.
+
+![Getting Started](./download.jpg) 
+
+
  
  **Co-op internships with several potential employers**
 - IBM
