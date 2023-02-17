@@ -68,4 +68,32 @@ Programming for Mobile Computing | This course introduces students to object-ori
 Differential Calculus with Applications | This course's math topics are directly related to what an engineering technologist needs to know. Differential calculus, which uses derivative formulas, is studied by students, although mastering the fundamentals of calculus comes first. The use of derivatives in technical word problems including linked rates, optimization, graphing, and velocity/acceleration/distance is the focus of this course. Students can gain first-hand experience with the applications of calculus through a multi-step project. By the use of algebraic and graphing technology, students are able to comprehend
 Integral Calculus with Applications | The theory, methods, and applications of integral calculus are covered in this course. For students majoring in pure or applied science, it is the second semester of a two-semester first-year calculus course. Every university transfer science and applied science program's first-year mathematics prerequisite is satisfied by Math 101 and Math 102 taken together. Differential equations, transcendental functions, definite and indefinite integrals, techniques of integration, area, volume, arc length, improper integrals, infinite sequences and series, applications, and antiderivatives are some of the topics covered.
 
-Keep in mind you need a minimum of 30 course credits and at least half (50 percent) of the course credits required in each undergraduate degree program major/minor must be taken at York University. This degree is a 4 year program.
+Keep in mind you need a minimum of 30 course credits and at least half (50 percent) of the course credits required in each undergraduate degree program major/minor must be taken at York University. This degree is a 4 year program. [For the program page click the link](https://futurestudents.yorku.ca/program/computer-science) 
+
+### *Additional Opportunities*
+
+Additional opportunities give people real-world work experience in fields that align with interests, talents, and educational requirements. Co-op gives you the opportunity to learn new skills and strenght while learning in the field of your choosing.
+ 
+ **Co-op internships with several potential employers**
+- IBM
+- Nascent
+- Caseware
+- CGI
+- RBC
+- Thales
+- The Regional Municipality of York
+- Ontario Ministry of Education
+- Ontario Ministry of Training, Colleges and Universities
+- Potential Computer Science Competitons 
+- Potential Computer Science Workshops
+
+A workshop may offer a novel idea, inspiring participants to learn more about it independently, or it may highlight practical techniques and encourage their use. It's an excellent method for teaching practical skills since it gives participants the ability to experiment and make mistakes in a secure environment.
+
+**Potential Competitons and Workshops:**
+- [Interdisciplinary Sciences Competition 2023](https://www.eventbrite.ca/e/interdisciplinary-sciences-competition-2023-tickets-465531255517?aff=erelexpmlt)
+- [Data Science Certification Training in Edmonton, AB](https://www.eventbrite.ca/e/data-science-certification-training-in-edmonton-ab-tickets-536426685657?aff=erelexpmlt&keep_tld=1)
+- [Computer Essentials Level 2 - Intro to Internet and Email](https://www.eventbrite.ca/e/computer-essentials-level-2-intro-to-internet-and-email-tickets-488282063797?aff=erelexpmlt&keep_tld=1)
+- [Computer Essentials Level 1 - Intro to Technology and Windows](https://www.eventbrite.ca/e/computer-essentials-level-1-intro-to-technology-and-windows-tickets-488281120977?aff=erelexpmlt&keep_tld=1)
+
+
+
