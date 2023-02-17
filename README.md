@@ -3,6 +3,9 @@
 ## **Software Architect**
 ### *Career description:*
 A software architect is a technical leader responsible for the design and overall vision of software systems. This role involves working closely with other teams such as software developers, product managers, and stakeholders to ensure that the final product meets the desired requirements and quality standards. Software architects have a broad and deep understanding of software development methodologies, technologies, and tools, and they use this knowledge to make informed decisions about the architecture and technology stack of a software system.
+![Getting Started](./images.jpg) 
+
+ 
 
 ### *Responsibilities of a software architect include:*
 + Defining the software architecture and ensuring that it aligns with the business goals and objectives
@@ -45,7 +48,8 @@ In addition to formal education, software architects should have a strong unders
 The salary range for a software architect varies widely based on factors such as location, company size, and years of experience. According to Glassdoor, the average salary for a software architect in the United States is $119,000 per year. However, the salary range can range from $80,000 to $180,000 or more, depending on the above factors. With experience and expertise, software architects can expect to earn higher salaries and have opportunities for advancement into senior technical leadership roles.
 
 ### *Education*
-The right education can make all the difference. Here is a create option for post-secondary education. 
+The right education can make all the difference. Here is a great option for a post-secondary education. 
+![Getting Started](./YorkU_Logo.png) 
 
     York University/Lassonde School of Engineering- Computer Science Undergraduate Degree
  
