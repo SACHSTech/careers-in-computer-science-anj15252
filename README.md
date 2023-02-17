@@ -17,7 +17,10 @@ A software architect is a technical leader responsible for the design and overal
 + Keeping up-to-date with industry trends and emerging technologies to ensure that the software architecture remains relevant and effective
 
 ### *Required Education:*
-The education requirements for a software architect vary depending on the company and the specific role. However, a bachelor's degree in computer science, software engineering, or a related field is typically required. A master's degree in computer science or a related field is often preferred.
+    The education requirements for a software architect vary depending on the company and the specific role. However, a bachelor's degree in computer science, software engineering, or a related field is typically required. A master's degree in computer science or a related field is often preferred.
+
+![Getting Started](./downloapicture.jpg) 
+
 
 In addition to formal education, software architects should have a strong understanding of software development methodologies and be familiar with multiple programming languages. Relevant certifications, such as Microsoft Certified Solutions Architect (MCSA), AWS Certified Solutions Architect, and Oracle Certified Master, Java SE 11 Developer, can also be helpful in demonstrating expertise and knowledge in specific technologies and solutions.
 
