@@ -107,11 +107,9 @@ A workshop may offer a novel idea, inspiring participants to learn more about it
 - [Computer Essentials Level 1 - Intro to Technology and Windows](https://www.eventbrite.ca/e/computer-essentials-level-1-intro-to-technology-and-windows-tickets-488281120977?aff=erelexpmlt&keep_tld=1)
 
 
-### *Todays Job Opportunity*
+### *Today's Job Opportunity*
 
 [**Software Architect**](https://www.monster.ca/jobs/search?q=Software+Architect&where=&page=1&geo=43.8645918%2C-79.3305414&so=m.h.s)
-
-![Getting Started](./Softwarearchitect.jpg) 
 
 Company: hireVouch
 
@@ -147,7 +145,43 @@ Qualifications
 
 
 
-2. 
+[**Software Architect**](https://www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s)
+![Getting Started](./Architect-Job-Descrption.jpg) 
+
+
+Flex People Solutions Inc.
+Location: Toronto, ON
+
+Description:
+
+On behalf of our client, a developer of Enterprise AV Management software, we are recruiting for a Software Architect to lead development/architecture of an industry leading software platform. This is an opportunity to join an established team and lead the evolution of the technology in support of the rapid and varied market opportunities in this space.
+
+We are looking for someone to join a high performing team to collaborate in building the AV Industry’s most efficient incident resolution engine. You will lead the overall architecture and delivery of the software solution, starting with assessing the current state of the product and delivering against the ambitious development roadmap. This is a pragmatic yet creative environment – low ego, high performance culture – rewarding out of the box thinking and teamwork to accomplish company objectives.
+
+This role will be responsible for the translation of the product/business objectives into industry leading software solutions, ensuring overall software design integrity following engineering best practices, technology platform recommendations, and technical leadership. The ideal candidate will have the ability to interact effectively with leadership as well as the technical team to ensure consistency between company strategy and technology deliverables.
+
+Technical skills and knowledge
+- Previous experience leading enterprise level software development/architecture
+- Technical leadership/mentorship of development team.
+- Strong analytical skills and ability to distill complex requirements into working software.
+- Demonstrated experience in Machine Learning/AI technology/architecture
+- Current technology stack includes: React/Node, AntDesign, VS Code, Zeplin, AWS
+- Experience with the following technologies is an asset
+- IoT concepts and/or industrial technology (e.g. fleet management) is highly desirable
+- ITSM platforms (e.g. ServiceNow, Pager)
+- Community/social based technology is an asset
+- If you are interested and feel you meet the qualifications for this role, please send your resume (cover letter optional) and we will reach out to all qualified applicants. Thank you for your interest.
+
+
+
+
+
+
+
+
+
+
+
 [**Software Architect**](https://workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk)
 
 ![Getting Started](./downloapicture.jpg) 
