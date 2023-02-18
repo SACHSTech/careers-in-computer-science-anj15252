@@ -27,7 +27,7 @@ In addition to formal education, software architects should have a strong unders
 ### *Technical and Non-Technical Skills:*
     Software architects need both technical and non-technical skills to be successful in their roles.
 
-### *Technical skills:*
+**Technical skills:**
 - Strong understanding of software development methodologies, such as Agile and Waterfall
 - Knowledge of multiple programming languages, such as  C++, Eiffel, Unix Shell, SQL/mySQL database, and PHP
 - Familiarity with cloud computing and cloud architecture patterns
@@ -40,7 +40,7 @@ In addition to formal education, software architects should have a strong unders
 - Software design models including design pattern and development
 - Various networking tools including Wireshark
 
-### *Non-technical skills:*
+**Non-technical skills:**
 - Excellent communication skills to effectively communicate technical concepts to both technical and non-technical stakeholders
 - Strong leadership and mentorship skills to lead and guide software development teams
 - Ability to think critically and make informed decisions about software architecture and technology solutions
@@ -56,7 +56,7 @@ The right education can make all the difference. Here is a great option for a po
 
     York University/Lassonde School of Engineering- Computer Science Undergraduate Degree
  
-Requirements for admission:
+**Requirements for admission:**
 - Ontario Secondary School Diploma (OSSD)
 - ENG4U
 - MHF4U
@@ -105,6 +105,83 @@ A workshop may offer a novel idea, inspiring participants to learn more about it
 - [Data Science Certification Training in Edmonton, AB](https://www.eventbrite.ca/e/data-science-certification-training-in-edmonton-ab-tickets-536426685657?aff=erelexpmlt&keep_tld=1)
 - [Computer Essentials Level 2 - Intro to Internet and Email](https://www.eventbrite.ca/e/computer-essentials-level-2-intro-to-internet-and-email-tickets-488282063797?aff=erelexpmlt&keep_tld=1)
 - [Computer Essentials Level 1 - Intro to Technology and Windows](https://www.eventbrite.ca/e/computer-essentials-level-1-intro-to-technology-and-windows-tickets-488281120977?aff=erelexpmlt&keep_tld=1)
+
+
+### *Todays Job Opportunity*
+
+[**Software Architect**](https://www.monster.ca/jobs/search?q=Software+Architect&where=&page=1&geo=43.8645918%2C-79.3305414&so=m.h.s)
+
+![Getting Started](./Softwarearchitect.jpg) 
+
+Company: hireVouch
+
+Location: Markham, ON
+
+Description:
+
+We are fueled by innovation. Our "ONE Team" mentality is what sets us apart. Every day is different, and we love it. We've shaped our culture around our people, so we appreciate the value of a healthy work/life balance. We have created an environment where that is possible.
+
+We are a team of tech experts who work on AWS based SaaS solutions for the Automotive Industry. Automotive mobile data and analytics is the core of our business. We’re always searching for bright, dynamic, and motivated individuals to join our team. If you think you have what it takes, we’d love to hear from you.
+
+We're looking for a Software Architect to bring their energy, skills and vision to work with our team on the development of the OnePlatform Dealership customer experience application.
+
+ 
+Qualifications
+- Excellent written & verbal communication
+- Demonstrated leadership capabilities
+- Consulting and/or professional services experience
+- Experience in software development, and working with distributed teams
+- Track record of architecting SaaS Enterprise Applications
+- Deep knowledge of architectural frameworks & patterns (Clean, SOLID)
+- Highly experienced with AWS technologies
+- Back-end technologies (.NET Core, C# preferred)
+- Front-end technologies (Angular preferred)
+- API development (REST/JSON preferred)
+- DB (AWS, SQL Server, MySQL, PostgreSQL)
+- Mobile technologies (iOS, Android)
+- Comfortable working in an agile environment
+- Proficient at DevOps practices and tools (AWS, Azure & GIT preferred)
+- Application security
+- Performance tuning & Scalability
+- Knowledge of Automotive ERP is an asset
+
+
+
+2. 
+[**Software Architect**](https://workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk)
+
+![Getting Started](./downloapicture.jpg) 
+
+
+
+Company: Work4ce Inc
+
+Location: Remote
+
+Skills
+
+- Authentication
+- Power BI
+- Project Server
+- SharePoint
+- Microsoft Project
+Must have 10 years of experience in the last 15 years in providing the services of an Application/Software Architect
+
+Must have successfully completed at least two (2) Microsoft Project Server or Microsoft Project Online implementation, configuration, and customization projects in a senior role within the last five (5) years.
+Must have experience implementing a Microsoft (MS) Project Online solution, including the following elements:
+
+-  Integrating MS Project Online in an existing M365 tenant;
+- Creating and configuring SharePoint collections;
+- Creating and configuring Project Web App (PWA);
+- Enabling multi-language;
+- Configuring authentication using Active Directory; and
+- Designing and implementing role-based security.
+
+Must have experience within the last 15 years leading discussions and requirements gathering sessions with Subject Matter Experts.
+Must have experience developing technical documentation and user guides to capture design, configuration, and reporting requirements for Microsoft Project Online.
+Must have experience designing and developing Microsoft Project Online reports and dashboards using Power BI technology
+
+
 
 
 
