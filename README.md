@@ -4,6 +4,7 @@
 ### *Career description:*
 A software architect is a technical leader responsible for the design and overall vision of software systems. This role involves working closely with other teams such as software developers, product managers, and stakeholders to ensure that the final product meets the desired requirements and quality standards. Software architects have a broad and deep understanding of software development methodologies, technologies, and tools, and they use this knowledge to make informed decisions about the architecture and technology stack of a software system.
 ![Getting Started](./clement-helardot-95YRwf6CNw8-unsplash.jpg) 
+*(unsplash)*
 
  
 
@@ -19,7 +20,9 @@ A software architect is a technical leader responsible for the design and overal
 ### *Required Education:*
     The education requirements for a software architect vary depending on the company and the specific role. However, a bachelor's degree in computer science, software engineering, or a related field is typically required. A master's degree in computer science or a related field is often preferred.
 
-![Getting Started](./downloapicture.jpg) 
+![Getting Started](./marvin-meyer-SYTO3xs06fU-unsplash.jpg) 
+*(Unsplash)*
+
 
 
 In addition to formal education, software architects should have a strong understanding of software development methodologies and be familiar with multiple programming languages. Relevant certifications, such as Microsoft Certified Solutions Architect (MCSA), AWS Certified Solutions Architect, and Oracle Certified Master, Java SE 11 Developer, can also be helpful in demonstrating expertise and knowledge in specific technologies and solutions.
@@ -52,7 +55,7 @@ The salary range for a software architect varies widely based on factors such as
 
 ### *Education*
 The right education can make all the difference. Here is a great option for a post-secondary education. 
-![Getting Started](./YorkU_Logo.png) 
+
 
     York University/Lassonde School of Engineering- Computer Science Undergraduate Degree
  
@@ -81,7 +84,9 @@ Keep in mind you need a minimum of 30 course credits and at least half (50 perce
 
 Additional opportunities give people real-world work experience in fields that align with interests, talents, and educational requirements. Co-op gives you the opportunity to learn new skills and strenght while learning in the field of your choosing.
 
-![Getting Started](./download.jpg) 
+![Getting Started](./kevin-ku-w7ZyuGYNpRQ-unsplash.jpg) 
+*(Unsplash)*
+
 
 
  
@@ -153,7 +158,9 @@ Qualifications
 **Software Architect**
 
 [Click for more information](https://www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s)
-![Getting Started](./Architect-Job-Descrption.jpg) 
+![Getting Started](./desola-lanre-ologun-kwzWjTnDPLk-unsplash.jpg) 
+*(Unsplash)*
+
 
 
 "Flex People Solutions Inc.
@@ -195,7 +202,9 @@ Technical skills and knowledge
 
 [Click for more information](https://workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk)
 
-![Getting Started](./downloapicture.jpg) 
+![Getting Started](./emile-perron-xrVDYZRGdw4-unsplash.jpg) 
+*(Unsplash)*
+
 
 
 
@@ -259,3 +268,5 @@ Bhumij, Suraj. “Differential Calculus (Formulas and Examples).” BYJUS, [byju
 “Sheridan Course Outlines.” Ulysses.sheridanc.on.ca, [ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=22981&subjectCode=MATH&version=7.0&appver=ps.](http://ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=22981&subjectCode=MATH&version=7.0&appver=ps) Accessed 17 Feb. 2023.
 
 “Software Architect - Flex People Solutions Inc.” [Www.monster.ca, www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s.](https://www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s) Accessed 18 Feb. 2023.
+
+Unsplash. “100+ Computer Science Pictures | Download Free Images on Unsplash.” Unsplash.com, [unsplash.com/s/photos/computer-science.](https://unsplash.com/s/photos/computer-science)
