@@ -3,7 +3,7 @@
 ## **Software Architect**
 ### *Career description:*
 A software architect is a technical leader responsible for the design and overall vision of software systems. This role involves working closely with other teams such as software developers, product managers, and stakeholders to ensure that the final product meets the desired requirements and quality standards. Software architects have a broad and deep understanding of software development methodologies, technologies, and tools, and they use this knowledge to make informed decisions about the architecture and technology stack of a software system.
-![Getting Started](./images.jpg) 
+![Getting Started](./clement-helardot-95YRwf6CNw8-unsplash.jpg) 
 
  
 
@@ -109,9 +109,12 @@ A workshop may offer a novel idea, inspiring participants to learn more about it
 
 ### *Today's Job Opportunity*
 
-[**Software Architect**](https://www.monster.ca/jobs/search?q=Software+Architect&where=&page=1&geo=43.8645918%2C-79.3305414&so=m.h.s)
+**Software Architect**
 
-Company: hireVouch
+[Click for more information](https://www.monster.ca/jobs/search?q=Software+Architect&where=&page=1&geo=43.8645918%2C-79.3305414&so=m.h.s)
+
+
+"Company: hireVouch
 
 Location: Markham, ON
 
@@ -141,15 +144,19 @@ Qualifications
 - Proficient at DevOps practices and tools (AWS, Azure & GIT preferred)
 - Application security
 - Performance tuning & Scalability
-- Knowledge of Automotive ERP is an asset
+- Knowledge of Automotive ERP is an asset"
+
+(“Monster Jobs - Job Search, Career Advice & Hiring Resources | Monster.ca | Software Architect”)
 
 
 
-[**Software Architect**](https://www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s)
+**Software Architect**
+
+[Click for more information](https://www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s)
 ![Getting Started](./Architect-Job-Descrption.jpg) 
 
 
-Flex People Solutions Inc.
+"Flex People Solutions Inc.
 Location: Toronto, ON
 
 Description:
@@ -170,7 +177,9 @@ Technical skills and knowledge
 - IoT concepts and/or industrial technology (e.g. fleet management) is highly desirable
 - ITSM platforms (e.g. ServiceNow, Pager)
 - Community/social based technology is an asset
-- If you are interested and feel you meet the qualifications for this role, please send your resume (cover letter optional) and we will reach out to all qualified applicants. Thank you for your interest.
+- If you are interested and feel you meet the qualifications for this role, please send your resume (cover letter optional) and we will reach out to all qualified applicants. Thank you for your interest."
+
+(“Sheridan Course Outlines”)
 
 
 
@@ -182,13 +191,15 @@ Technical skills and knowledge
 
 
 
-[**Software Architect**](https://workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk)
+**Software Architect**
+
+[Click for more information](https://workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk)
 
 ![Getting Started](./downloapicture.jpg) 
 
 
 
-Company: Work4ce Inc
+"Company: Work4ce Inc
 
 Location: Remote
 
@@ -213,9 +224,38 @@ Must have experience implementing a Microsoft (MS) Project Online solution, incl
 
 Must have experience within the last 15 years leading discussions and requirements gathering sessions with Subject Matter Experts.
 Must have experience developing technical documentation and user guides to capture design, configuration, and reporting requirements for Microsoft Project Online.
-Must have experience designing and developing Microsoft Project Online reports and dashboards using Power BI technology
+Must have experience designing and developing Microsoft Project Online reports and dashboards using Power BI technology"
+
+(“Software Architect - Flex People Solutions Inc.”)
 
 
 
+### **Work Cited**
+Works Cited “All Software Architect Jobs | Workopolis.” Workopolis.com, [workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk.](https://workopolis.com/jobsearch/find-jobs?ak=Software+Architect&l=&job=NOTzJsDh3EIG5q0ou5XKA2f1F0QK3VajRUKO-Z6Jp7AwkP0-EbXh1-sx-awWwUJk) Accessed 17 Feb. 2023.
+
+Bhumij, Suraj. “Differential Calculus (Formulas and Examples).” BYJUS, [byjus.com/maths/differential-calculus/#:~:text=Real%2Dlife%20applications%20of%20differential.](https://byjus.com/maths/differential-calculus/#:~:text=Real%2Dlife%20applications%20of%20differential)
+
+“Computer Science | Future Students | York University.” [Futurestudents.yorku.ca, futurestudents.yorku.ca/program/computer-science.](https://futurestudents.yorku.ca/program/computer-science)
+
+“Discrete Mathematics for Computer Science.” Professional and Lifelong Learning, 8 Oct. 2020, [pll.harvard.edu/course/discrete-mathematics-computer-science-0?delta=0#:~:text=Course%20description-.](https://pll.harvard.edu/course/discrete-mathematics-computer-science-0?delta=0#:~:text=Course%20description-) Accessed 17 Feb. 2023.
+
+“EECS 1022 Programming for Mobile Computing.” [Www.eecs.yorku.ca, www.eecs.yorku.ca/course_archive/2019-20/S/1022/.](https://www.eecs.yorku.ca/course_archive/2019-20/S/1022/) Accessed 17 Feb. 2023.
+
+“EECS1012 Introduction to Computing: A Net-Centric Approach.” [Www.eecs.yorku.ca, www.eecs.yorku.ca/course_archive/2020-21/W/1012/#:~:text=This%20is%20an%20introductory%20programming](https://www.eecs.yorku.ca/course_archive/2020-21/W/1012/#:~:text=This%20is%20an%20introductory%20programming). Accessed 17 Feb. 2023.
+
+“Integral Calculus.” Cnc.bc.ca, [cnc.bc.ca/programs-courses/courses/detail/3413.](https://cnc.bc.ca/programs-courses/courses/detail/3413) Accessed 17 Feb. 2023.
+
+“MATH 100 - Differential Calculus with Applications - UBC Student Services.” Courses.students.ubc.ca, [courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=100.](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=100) Accessed 17 Feb. 2023.
+
+“MATH 101 - Integral Calculus with Applications - UBC Student Services.” Courses.students.ubc.ca, [courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=101.](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=101) Accessed 17 Feb. 2023.
+
+“MATH 104 - Differential Calculus with Applications to Commerce and Social Sciences - UBC Student Services.” Courses.students.ubc.ca, [courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=104.](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=104) Accessed 17 Feb. 2023.
+
+“Math for Computer Science: Discrete Math | Masters Program in Computer Science | the University of Chicago.” Masters.cs.uchicago.edu, [masters.cs.uchicago.edu/page/math-computer-science-discrete-math#:~:text=How%20is%20discrete%20mathematics%20used.](https://masters.cs.uchicago.edu/page/math-computer-science-discrete-math#:~:text=How%20is%20discrete%20mathematics%20used)
 
 
+“Monster Jobs - Job Search, Career Advice & Hiring Resources | Monster.ca | Software Architect.” Www.monster.ca, [www.monster.ca/jobs/search?q=Software+Architect&where=&page=1&geo=43.8645918%2C-79.3305414&so=m.h.s.](https://www.monster.ca/jobs/search?q=Software+Architect&where=&page=1&geo=43.8645918%2C-79.3305414&so=m.h.s) Accessed 18 Feb. 2023.
+
+“Sheridan Course Outlines.” Ulysses.sheridanc.on.ca, [ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=22981&subjectCode=MATH&version=7.0&appver=ps.](http://ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=22981&subjectCode=MATH&version=7.0&appver=ps) Accessed 17 Feb. 2023.
+
+“Software Architect - Flex People Solutions Inc.” [Www.monster.ca, www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s.](https://www.monster.ca/job-openings/software-architect-toronto-08--56e97e91-afcf-4af1-8848-c4a0e0446ec6?sid=d54a0f4d-b6dd-4d9a-8fb9-2f85c5c0b38c&jvo=m.go.sc.3&so=m.h.s) Accessed 18 Feb. 2023.
